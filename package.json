@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "16.15.0",
+  "description": "Simple Web Application",
+  "main": "clear",
+  "scripts": {
+    "start": "node hello.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimarley100/Intro-To-Node-1.git"
+  },
+  "keywords": [
+    "16.15.0"
+  ],
+  "author": "Kimmarley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimarley100/Intro-To-Node-1/issues"
+  },
+  "homepage": "https://github.com/kimarley100/Intro-To-Node-1#readme"
+}
